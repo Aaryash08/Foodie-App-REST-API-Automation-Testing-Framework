@@ -50,7 +50,9 @@ Foodie_App/
 ├── Robot/                # Robot Framework tests
 │   └── api_tests.robot
 │
-└── pytest_reports/       # Generated test reports
+├── pytest_reports/       # Generated test reports
+│
+└── robot_reports/       # Generated test reports
 ```
 
 ---
